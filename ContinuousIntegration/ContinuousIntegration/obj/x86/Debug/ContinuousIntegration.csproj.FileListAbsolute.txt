@@ -1,0 +1,5 @@
+/Users/michael/Desktop/Development Project 1/HD Task/DP1-HD/ContinuousIntegration/ContinuousIntegration/obj/x86/Debug/ContinuousIntegration.csproj.CoreCompileInputs.cache
+/Users/michael/Desktop/Development Project 1/HD Task/DP1-HD/ContinuousIntegration/ContinuousIntegration/bin/Debug/ContinuousIntegration.exe
+/Users/michael/Desktop/Development Project 1/HD Task/DP1-HD/ContinuousIntegration/ContinuousIntegration/bin/Debug/ContinuousIntegration.pdb
+/Users/michael/Desktop/Development Project 1/HD Task/DP1-HD/ContinuousIntegration/ContinuousIntegration/obj/x86/Debug/ContinuousIntegration.exe
+/Users/michael/Desktop/Development Project 1/HD Task/DP1-HD/ContinuousIntegration/ContinuousIntegration/obj/x86/Debug/ContinuousIntegration.pdb

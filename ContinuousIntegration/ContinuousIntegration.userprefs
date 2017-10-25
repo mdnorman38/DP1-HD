@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{2882B5EA-D7DC-4697-9865-04FFD54B5498}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContinuousIntegration/Program.cs">
+    <Files>
+      <File FileName="ContinuousIntegration/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
